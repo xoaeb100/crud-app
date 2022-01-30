@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "tony stark",
+      "username": "rdj",
+      "email": "stark@gmail.com",
+      "phone": "1231231233",
+      "id": 8
+    },
+    {
+      "name": "Steve Rogers",
+      "username": "cap",
+      "email": "captain@america.com",
+      "phone": "1212121212",
+      "id": 9
+    },
+    {
+      "name": "Lorem",
+      "username": "loremipsum",
+      "email": "lorem.ipsum@dollar.com",
+      "phone": "9878909878",
+      "id": 10
+    }
+  ]
+}
